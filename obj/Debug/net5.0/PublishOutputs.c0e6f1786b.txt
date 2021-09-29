@@ -1,0 +1,5 @@
+/home/systemsltd/Farhan/DOT-NET/hello/bin/Debug/net5.0/publish/hello
+/home/systemsltd/Farhan/DOT-NET/hello/bin/Debug/net5.0/publish/hello.dll
+/home/systemsltd/Farhan/DOT-NET/hello/bin/Debug/net5.0/publish/hello.deps.json
+/home/systemsltd/Farhan/DOT-NET/hello/bin/Debug/net5.0/publish/hello.runtimeconfig.json
+/home/systemsltd/Farhan/DOT-NET/hello/bin/Debug/net5.0/publish/hello.pdb
